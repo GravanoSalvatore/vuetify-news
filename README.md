@@ -1,27 +1,4 @@
-# HeroUI - Giraffe
 
-![images](images/preview.png)
-
-Giraffe is a complete application theme, Giraffe theme built with [Vuetify](https://vuetifyjs.com/) created
-by [HeroUI](https://heroui.net/). It is a solution that displays dense content, such as news, blogs or magazines,
-including news, authors, classified pages, and so on. Giraffe are characterized by a large number of components
-assembled together and look amazing. If you are a new company and want to create your online image, or if you just want
-people to know who you are and what you do, this may be your answer.
-
-## Preview
-
-**[View Live Preview](https://giraffe.heroui.net/)**
-
-## Usage
-
-### Basic Usage
-
-Clone the source files of the theme and navigate into the theme's root directory. Run `yarn` and then run `yarn dev`
-which will open up a preview of the template in your default browser, watch for changes to core template files, and live
-reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
-
-#### Scripts
-We have now switched to the Vite build tool, which is much faster.
 
 - `yarn dev` start a vite dev server
 - `yarn build` build all file to `dist`
